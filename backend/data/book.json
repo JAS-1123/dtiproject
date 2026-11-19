@@ -1,0 +1,80 @@
+{
+  "id": "the-glass-citadel",
+  "title": "The Glass Citadel",
+  "author": "LoreFlow Demo Studio",
+  "genre": "Fantasy · Short story",
+  "description": "A city of glass, a missing key, and a gate that should never be opened.",
+  "audio_url": "/audio/loreflow_sample.wav",
+  "duration_sec": 131.06,
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "The Thirteenth Bell",
+      "start_sec": 0.0,
+      "end_sec": 64.81
+    },
+    {
+      "id": "ch2",
+      "title": "The Northern Gate",
+      "start_sec": 65.16,
+      "end_sec": 131.06
+    }
+  ],
+  "chunks": [
+    {
+      "id": "p1",
+      "title": "The city at dusk",
+      "text": "At the edge of the Amber Sea stood the city of Veyra. Every evening, its glass towers caught the last light, while the old northern wall disappeared into blue mist. Tonight, the bells rang thirteen times. No one in Veyra could remember hearing the thirteenth bell before.",
+      "start_sec": 0.0,
+      "end_sec": 18.59,
+      "duration_sec": 18.59
+    },
+    {
+      "id": "p2",
+      "title": "Captain Mira",
+      "text": "Captain Mira stood above the western gate, watching the streets below. She commanded the city's western guard and had protected Veyra for twelve years. Calm, observant, and difficult to surprise, Mira trusted preparation more than promises. The guards followed her because she never asked them to take a risk she would not take herself.",
+      "start_sec": 18.94,
+      "end_sec": 43.65,
+      "duration_sec": 24.71
+    },
+    {
+      "id": "p3",
+      "title": "The archivist's key",
+      "text": "A thin man hurried up the steps. His name was Ilya, the royal archivist, keeper of the city's oldest records. In his hand was a brass key marked with a small crescent. He told Mira that the key had been missing from the archive for a hundred years, and that someone had returned it without leaving a name.",
+      "start_sec": 44.0,
+      "end_sec": 64.81,
+      "duration_sec": 20.8
+    },
+    {
+      "id": "p4",
+      "title": "A sealed map",
+      "text": "Mira unfolded a map sealed with blue wax. It showed the northern gate, a passage that had been closed since the founding of Veyra. Ilya wanted to open it immediately. Mira refused. The map was incomplete, and the old records warned that the gate should never be opened by a single person.",
+      "start_sec": 65.16,
+      "end_sec": 85.88,
+      "duration_sec": 20.72
+    },
+    {
+      "id": "p5",
+      "title": "The hidden observatory",
+      "text": "At the first light of dawn, Mira fitted the brass key into a hidden lock beneath the northern arch. The stone doors moved apart, revealing a staircase descending beneath the city. Beyond the north gate lay an underground observatory, built by Veyra's founders to watch a star that appeared only once every hundred years.",
+      "start_sec": 86.23,
+      "end_sec": 107.5,
+      "duration_sec": 21.27
+    },
+    {
+      "id": "p6",
+      "title": "The star compass",
+      "text": "At the bottom of the stairs, a silver instrument hovered above a circular table. Ilya called it the star compass. Its needle pointed not north, but toward the dark sea. Mira understood why the old warning had survived: the observatory was not a weapon or a treasure room. It was a signal, waiting for the star to return.",
+      "start_sec": 107.85,
+      "end_sec": 131.06,
+      "duration_sec": 23.21
+    }
+  ],
+  "short_title": "THE GLASS\nCITADEL",
+  "cover_author": "A LOREFLOW ORIGINAL",
+  "cover_style": "fantasy",
+  "default_position_sec": 52.0,
+  "demo_reveal_sec": 109.0,
+  "demo_reveal_message": "Moved to the passage where the northern gate is explained.",
+  "edition_note": "LOREFLOW ORIGINAL · SYNTHETIC NARRATION"
+}
